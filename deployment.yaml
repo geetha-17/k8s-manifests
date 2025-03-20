@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: <your-dockerhub-username>/hello-world:latest  # Placeholder, updated by Jenkins
+        image: geetha8500/hello-world:latest  # Placeholder, updated by Jenkins
         ports:
         - containerPort: 5000
